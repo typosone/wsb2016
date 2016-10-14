@@ -1,0 +1,38 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    font-weight: normal;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+h1 {
+    background-color: rgb(235,84,5);
+    color: white;
+    font-size: 12pt;
+    padding-top: 3px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin: 5px 5px 10px 10px;
+}
+
+img {
+    margin-left: 10px;
+    width: 200px;
+    height: 130px;
+    float: left;
+}
+
+time {
+    font-size: 10pt;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+p {
+    width: 500px;
+    margin-left: 230px;
+}
